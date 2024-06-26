@@ -23,6 +23,7 @@ The UDP Load Balancer receives messages from a client and forwards them to one o
 
 ### Example Output
 ![Load Balancer](https://i.imgur.com/ILT9TYq.png)
+(Click image to enlarge)
 
 ## Installation
 
