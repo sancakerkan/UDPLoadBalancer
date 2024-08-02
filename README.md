@@ -1,8 +1,14 @@
 # UDP Load Balancer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Issues](https://img.shields.io/github/issues/sancakerkan/UDPLoadBalancer)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project implements a simple UDP Load Balancer that distributes incoming UDP messages to a pool of backend servers using a round-robin scheduling algorithm.
 
 ## Table of Contents
+
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
@@ -54,8 +60,6 @@ The UDP Load Balancer receives messages from a client and forwards them to one o
 - **Server Addresses:**
     - The server addresses are specified in `SERVER_ADDRESSES` in `UDPLoadBalancer.py`.
     - Add or remove server addresses as needed.
- 
-
 
 ## Contributing
 
